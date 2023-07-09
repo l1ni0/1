@@ -1,1 +1,10 @@
-print('я уже час не могу разобраться с этим еще 10 минут и я начну читать молитвы')
+
+def i(string):
+    if string[::-1] == string:
+        return True
+    elif string[::-1] != string:
+        return False
+    
+string = input('введите слово: ')
+
+i(string)
