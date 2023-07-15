@@ -8,3 +8,12 @@ h1 {
     margin-top: 100px;
     margin-left: 100px;
 }
+
+
+.idk {
+    font-size: 24px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 5px 5px 4px rgb(87, 148, 87);
+
+}
